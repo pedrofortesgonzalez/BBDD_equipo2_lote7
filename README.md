@@ -11,3 +11,6 @@ Lo que hay hecho:
 - Atributos creados (revisar vartypes y añadir limitaciones)
 - Tablas intermedias + claves foráneas añadidas
 - Ejemplo añadido
+
+## 3. Word integrado:
+https://docs.google.com/document/d/13x7rg3YrVxPBq1uOdig0Y9flWAvgUB4eW7TnIGFYQJE/edit?tab=t.0#heading=h.g31bfv23alur
