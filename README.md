@@ -5,7 +5,7 @@ Este es un repositorio usado para el desarrollo de la actividad grupal de BBDD
 https://www.canva.com/design/DAGlRNAGG2g/-B3euFUUxVPrWZUG21_sGQ/edit 
 
 ## 2. Script de creación de la BBDD
-
+Este script está en el archivo > db_creation.sql
 
 ## 3. Word integrado:
 https://docs.google.com/document/d/13x7rg3YrVxPBq1uOdig0Y9flWAvgUB4eW7TnIGFYQJE/edit?tab=t.0#heading=h.g31bfv23alur
